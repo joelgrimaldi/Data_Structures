@@ -1,0 +1,39 @@
+DECATHLETE SCORES                           100       LJ        SP        HJ        400       110H      DT        PV        JT        1500
+Scott              Ferrier          AUS     11.11     7.19      13.5      1.97                                                                  
+Klaus              Ambrosch         AUT     11.01     7.17      15.3      1.91      50.23     14.92     41.22     4.6       67.94     4:40.94   
+Eugenio            Balanqu          CUB     10.87     6.19      14.9      1.94      48.23     14.36     46.56                                   
+Raul               Duany            CUB     11.09     7.33      13.34     2.06      49.73     14.44     41.17     4.6       64.31     4:29.68   
+Georgios           Andreou          CYP     10.97     6.73      14.24                                                                           
+Tomas              Dvorak           CZE     10.91     7.5       15.91     1.97      49.11     14.34     47.15     4.4       69.94     4:32.23   
+Jiri               Ryba             CZE     11.14     7.1       14.21     2         48.97     14.99     42.83     4.9       57.76     4:18.21   
+Roman              Sebrle           CZE     10.92     7.62      15.22     2.12      48.2      13.87     44.39     4.8       64.04     4:28.79   
+Francisco-Javier   Benet            ESP     11.42     6.32                                                                                      
+Indrek             Kaseorg          EST     11.31     7.22      13.26     1.97      50.03     14.57     41.98     4.8       66.54     4:35.64   
+Erki               Nool             EST     10.68     7.76      15.11     2         46.71     14.48     43.66     5         65.82     4:29.48   
+Eduard             Hamalainen       FIN     11.01     7.19      14.06     1.85      48.14     14.37     35.98     4.8       47.11     4:54.18   
+Aki                Heikkinen        FIN     11.15               13.37                                                                           
+Wilfrid            Boulineau        FRA     11.07     7.08      13.38     2.03      49.82     15.02     39.86     4.8       59.69     4:35.59   
+Laurent            Hernu            FRA     11.19     7.14      13.54     2.06      50.63     14.51     41.78     5         56.34     4:37.82   
+Sebastien          Levicq           FRA     11.48     6.57      13.53                                                                           
+Dean               Macey            GBR     10.81     7.77      14.62     2.09      46.41     14.53     43.37     4.8       60.38     4:23.45   
+Frank              Busemann         GER     10.91     7.64      14.52     2.09      48.97     14.16     33.71     5         64.91     4:25.32   
+Mike               Maczey           GER     11.17     7.1       13.84     2.03      49.91               43.64     5.1       61.49     4:27.99   
+Stefan             Schmid           GER     10.94     7.17      14.04     2         48.61     14.38     40.81     5         67.03     4:36.49   
+Prodromos          Korkizoglou      GRE     10.74     7.16      13.7      1.97      53.57                                                       
+Zsolt              Kurtosi          HUN     11        7.19      15.13     2         48.81     14.15     46.62     4.8       57.16     4:43.39   
+Attila             Zsivoczky        HUN     11.1      7         14.96     2.06      48.61     15.27     47.43     4.8       65.87     4:23.37   
+Jon-Arnar          Magnusson        ISL     10.85               15.48                                                                           
+Claston            Bernard          JAM     10.79               13.68     2.09      49.77     15.01     41.15                                   
+Trond              Hoiby            NOR     11.56     6.22      14.03                                                                           
+Mario              Anibal           POR     10.97     6.9       15.39     2.03      48.71     14.71     45.01     4.9       57.51     4:32.68   
+Lev                Lobodin          RUS     10.75     7.18      15.75     1.94      48.87     14.02     44.55     5         50.16     4:50.73   
+Roman              Razbeyko         RUS     11.45     6.82      13.98     1.97                                                                  
+Philipp            Huber            SUI     11.35                                                                                               
+Henrik             Dagard           SWE     10.84     7.08      14.97     1.94      48.75     14.3      42.95     5.1       65.05     4:49.51   
+Fedor              Laukhin          UKR     11.21     7.01      13.16     2.03      49.64     15.16     38.33     4.9       55.53     4:41.48   
+Vladimir           Mikhailenko      UKR     11.1      7.04      13.53     2.06      48.8      14.84     40.45     4.6       47.27     4:36.23   
+Aleksandr          Yurkov           UKR     10.89     6.68      14.78     1.97      48.66     15.02     48.67     5         54.77     4:39.94   
+Chris              Huffins          USA     10.48     7.71      15.27     2.09      48.31     13.91     49.55     4.7       56.62     4:38.71   
+Kip                Janvrin          USA     11.26     6.63      13.57     1.85      49.12     15.15     42.2      5         56.84     4:17.81   
+Tom                Pappas           USA     10.82     7.41      14.87     2.21      48.64     14.15     41.42     4.9       62.26     4:45.1    
+Oleg               Veretelnikov     UZB     12.17                                                                                               
