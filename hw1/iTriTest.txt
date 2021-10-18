@@ -1,0 +1,9 @@
+        *
+       *a*
+      *abc*
+     *deabc*
+    *deabcde*
+   *abcdeabcd*
+  *eabcdeabcde*
+ *abcdeabcdeabc*
+*****************

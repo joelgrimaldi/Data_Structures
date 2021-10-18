@@ -1,0 +1,18 @@
+        *
+       *a*
+      *bcd*
+     *eabcd*
+    *eabcdea*
+   *bcdeabcde*
+  *abcdeabcdea*
+ *bcdeabcdeabcd*
+*eabcdeabcdeabcd*
+*eabcdeabcdeabcd*
+ *eabcdeabcdeab*
+  *cdeabcdeabc*
+   *deabcdeab*
+    *cdeabcd*
+     *eabcd*
+      *eab*
+       *c*
+        *
